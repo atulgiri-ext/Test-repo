@@ -13,6 +13,7 @@ int main(void)
         if (counter == 45)
         {
             array = 10;
+            (void)printf(" %d and array : %d\n", counter, array);
         }
         (void)printf(" %d and array : %d\n", counter, array);
             
